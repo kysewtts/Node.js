@@ -1,0 +1,4 @@
+Node.js is a open source framework which is cross platform in nature . It means that it can run on various platfroms like Linux, MAC OS X , Windows . It sets up an environment for executing JavaScript on the server . It is very easy to use across all platforms . 
+Node.js has become popular because of variety of features . It is asynchronous in nature . This means that upon request it accepts the task and sends it to the computer system . It is then ready to accept new requests . The notification mechanism of Node.js helps it to get the response from the previous call . In other words it is non-blocking unlike other PHP or ASP etc . 
+Since Node.js is built on Google's powerful V8 Javascript engine , it is very fast while executing codes . 
+Node.js is single threaded . This means it can handle more request than other servers . It outputs data in pieces so it is non-buffering . 
