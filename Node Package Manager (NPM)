@@ -1,0 +1,5 @@
+Node package manager(NPM) is a very important tool of Node.js . 
+It helps us to search Node packages and install them as our dependancies . 
+To install packages we simply write $npm install <module name> . 
+Befor starting any project we are required to initialize it using $npm init . This will create a package.json file containing the details of our project . 
+Now whenever a new module is installed as our dependancy , then it will be placed in our package.json file . 
