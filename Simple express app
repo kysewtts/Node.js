@@ -1,0 +1,12 @@
+This code demonstrates a simple a express app running on port 3000 . 
+
+
+
+const express = require('express');
+const app = express();
+
+app.get('/' , function(req , res){
+  res.send('Welcome to express');
+});
+
+app.listen(3000);
