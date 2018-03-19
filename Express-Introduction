@@ -1,0 +1,4 @@
+Express is Node.js web application server framework which is designed for building various web and mobile applications . 
+It allows us to use middlewares, to respond to HTTP requests . 
+It allows us to perform various actions based on HTTP methods . 
+It requires a callback function which is fired when the endpoint is matched with the clients request . 
